@@ -1,6 +1,6 @@
 <h1 align="center">Julianne Silva da Costa Venancio</h1>
 
-<p align="center">Fullstack Developer in training | Passionate about technology and art 🎨 | Writing code (and bugs) since 2024</p>
+<p align="center">Fullstack Developer in training | Writing code (and bugs) since 2024</p>
 
 ---
 
